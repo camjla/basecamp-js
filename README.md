@@ -3,5 +3,5 @@
 
 
 <br>
->>> Mentora: Stephany Nusch
+>>> Mentora: Stephany Nusch<br>
 >>#Exercicios feitos ao longo dos cursos de JS-básico pela DIO.
